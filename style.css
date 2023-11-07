@@ -1,0 +1,30 @@
+body{
+    text-align: center ;
+    color: rgb(14, 10, 10);
+    background-color: lightblue;
+    
+    
+}
+
+.titulo {
+    font-family: monospace;
+    color: rgb(0, 0, 0);
+}
+
+.subtitulo {
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fotocidade2 { 
+    text-align: center;
+
+}
+footer{
+  background-color: lightskyblue;
+}
+
+p {
+    text-align: justify ;
+}
